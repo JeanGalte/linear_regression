@@ -15,3 +15,7 @@ Book for python :
 "Python for data analysis" (you might find it with dorking) 
 Numpy documentation
 https://numpy.org/doc/2.3/reference/index.html#reference
+solow model simulation 
+https://github.com/solowPy/solowPy?tab=readme-ov-file
+finding the steady point : 
+https://nbviewer.org/github/solowPy/solowPy/blob/master/examples/2%20Finding%20the%20steady%20state.ipynb
