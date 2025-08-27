@@ -1,0 +1,17 @@
+links used : 
+google dorking cheatsheet
+https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
+how to speak properly to an LLM in order to produce code ? 
+GPT
+https://platform.openai.com/docs/guides/reasoning-best-practices 
+https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt 
+Claude
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices
+Gemini
+https://ai.google.dev/gemini-api/docs/prompting-strategies 
+git tutorial 
+https://rogerdudler.github.io/git-guide/ 
+Book for python :
+"Python for data analysis" (you might find it with dorking) 
+Numpy documentation
+https://numpy.org/doc/2.3/reference/index.html#reference
